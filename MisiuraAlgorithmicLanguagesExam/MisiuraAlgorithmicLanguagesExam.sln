@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MisiuraAlgorithmicLanguagesExam", "MisiuraAlgorithmicLanguagesExam.vcxproj", "{7502EE81-F5B3-49B3-9848-EF3A5275E014}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7502EE81-F5B3-49B3-9848-EF3A5275E014}.Debug|x64.ActiveCfg = Debug|x64
+		{7502EE81-F5B3-49B3-9848-EF3A5275E014}.Debug|x64.Build.0 = Debug|x64
+		{7502EE81-F5B3-49B3-9848-EF3A5275E014}.Debug|x86.ActiveCfg = Debug|Win32
+		{7502EE81-F5B3-49B3-9848-EF3A5275E014}.Debug|x86.Build.0 = Debug|Win32
+		{7502EE81-F5B3-49B3-9848-EF3A5275E014}.Release|x64.ActiveCfg = Release|x64
+		{7502EE81-F5B3-49B3-9848-EF3A5275E014}.Release|x64.Build.0 = Release|x64
+		{7502EE81-F5B3-49B3-9848-EF3A5275E014}.Release|x86.ActiveCfg = Release|Win32
+		{7502EE81-F5B3-49B3-9848-EF3A5275E014}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {676DC0FB-3393-4C4F-BC0F-3CCF8E92A220}
+	EndGlobalSection
+EndGlobal
